@@ -1,0 +1,15 @@
+E:\CS\Homework\Lesson_03_C#\21\bin\Debug\net6.0\21.exe
+E:\CS\Homework\Lesson_03_C#\21\bin\Debug\net6.0\21.deps.json
+E:\CS\Homework\Lesson_03_C#\21\bin\Debug\net6.0\21.runtimeconfig.json
+E:\CS\Homework\Lesson_03_C#\21\bin\Debug\net6.0\21.dll
+E:\CS\Homework\Lesson_03_C#\21\bin\Debug\net6.0\21.pdb
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\21.csproj.AssemblyReference.cache
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\21.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\21.AssemblyInfoInputs.cache
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\21.AssemblyInfo.cs
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\21.csproj.CoreCompileInputs.cache
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\21.dll
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\refint\21.dll
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\21.pdb
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\21.genruntimeconfig.cache
+E:\CS\Homework\Lesson_03_C#\21\obj\Debug\net6.0\ref\21.dll
